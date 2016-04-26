@@ -94,7 +94,7 @@ h6 {
 
 .content-section-a {
     padding: 50px 0;
-    background-color: white;
+    background-color: black;
 }
 
 .content-section-b {
@@ -168,3 +168,4 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
