@@ -36,7 +36,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: white;
-    background-color: #99FF66;
+    background-color: #66FF66;
 }
 
 .intro-message {
@@ -48,7 +48,7 @@ h6 {
 #particles-js{
   position: absolute;
   width: 100%;
-  height: 100%;
+  height: 135%;
   top: 1;
 }
 
@@ -119,7 +119,7 @@ h6 {
 .section-heading-spacer {
     float: left;
     width: 200px;
-    border-top: 3px solid #99FF66;
+    border-top: 3px solid #66FF66;
 }
 
 .banner {
