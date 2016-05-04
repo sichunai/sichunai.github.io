@@ -35,7 +35,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: white;
-    background-color: #66FF66;
+    background-color: #bdf46d;
 }
 
 .intro-message {
@@ -117,7 +117,7 @@ h6 {
 .section-heading-spacer {
     float: left;
     width: 200px;
-    border-top: 3px solid #66FF66;
+    border-top: 3px solid #bdf46d;
 }
 
 @media(max-width:1199px) {
